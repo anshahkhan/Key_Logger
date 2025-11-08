@@ -58,9 +58,10 @@ Before running the program, ensure you have the following:
 
 This tool is intended for educational purposes and ethical use only. Unauthorized use of this software to monitor devices without consent is illegal and strictly prohibited.
 
-## Contributing
+## Contributers
 
-Feel free to fork the repository and submit pull requests for any enhancements or bug fixes.
+**Aliza Fatima**
+https://github.com/AlizaFatima12
 
 
 
